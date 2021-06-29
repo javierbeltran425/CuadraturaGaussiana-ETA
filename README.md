@@ -1,7 +1,7 @@
 # CuadraturaGaussiana-ETA
 
 ### Teorema de Cuadratura Gaussiana
-## Grupo: $\eta$
+## Grupo: eta
     Integrantes:
 
             - Alexis Rafael Bolaños Mejia, 00090718
